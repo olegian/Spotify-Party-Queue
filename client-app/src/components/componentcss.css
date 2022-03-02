@@ -1,0 +1,7 @@
+.hide{
+    display:none;
+}
+
+.hideTrigger:hover > .hide {
+    display:block;
+}
